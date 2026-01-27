@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Accueil - Promotion</title>
+</head>
+<body>
+
+<h1>BIENVENUE AUX MEMBRES DE LA PROMOTION ESPOIR</h1>
+
+<nav>
+    <a href="index.html">Accueil</a> |
+    <a href="paiement.html">Réaliser un paiement</a> |
+    <a href="aide.html">Demande d’aide</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Réaliser un paiement</title>
+</head>
+<body>
+
+<h2>Réaliser un paiement</h2>
+
+<form>
+Nom du client :<br>
+<input type="text"><br><br>
+
+Numéro du client :<br>
+<input type="text"><br><br>
+
+Montant à payer :<br>
+<input type="number"><br><br>
+
+Date du paiement :<br>
+<input type="date"><br><br>
+</form>
+
+<a href="index.html">Retour accueil</a>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Demande d’aide</title>
+</head>
+<body>
+
+<h2>Demande d’aide</h2>
+
+<ul>
+<li>Président</li>
+<li>Vice-président</li>
+<li>Autres membres</li>
+</ul>
+
+<a href="index.html">Retour accueil</a>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Contact</title>
+</head>
+<body>
+
+<h2>Contact</h2>
+
+<p>Réseaux sociaux</p>
+<p>Email</p>
+
+<textarea placeholder="Commentaires"></textarea><br><br>
+
+<a href="index.html">Retour accueil</a>
+
+</body>
+</html>
